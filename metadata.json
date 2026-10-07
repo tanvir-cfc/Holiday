@@ -1,0 +1,6 @@
+{
+  "name": "GovtHolidays BD - Bangladesh Government Holidays 2026",
+  "description": "Complete calendar of national, religious & special public holidays in Bangladesh for 2026 — updated and verified.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
